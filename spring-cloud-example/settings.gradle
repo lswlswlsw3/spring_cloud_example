@@ -1,0 +1,4 @@
+rootProject.name = 'spring-cloud-example'	// root프로젝트 명
+include 'member'							// 멤버 프로젝트 import
+include 'work'								// 워크 프로젝트 import
+
